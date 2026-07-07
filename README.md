@@ -30,11 +30,11 @@ RSC stands for Regular Slotted Container, a common corrugated cardboard box styl
 RSC は Regular Slotted Container の略で、一般的な段ボールA式箱に相当する形式です。
 
 
-This repository contains small Fusion 360 Python add-ins created for practical packaging design work.
+This repository contains small Fusion360 Python add-ins created for practical packaging design work.
 
 The add-ins generate a simple A-style / RSC cardboard box from inner dimensions and provide a basic open/close motion command for the flaps.
 
-このリポジトリには、実務の包装設計作業を補助するために作成した Fusion 360 Python アドインが含まれています。
+このリポジトリには、実務の包装設計作業を補助するために作成した Fusion　360 Python アドインが含まれています。
 
 内寸から簡易的な A式箱 / RSC形式の段ボール箱モデルを作成し、別コマンドでフラップの開閉表示を行います。
 
