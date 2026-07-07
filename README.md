@@ -4,6 +4,7 @@ Fusion 360 add-ins for creating and opening/closing simple RSC style cardboard b
 
 Fusion 360 用の、簡易的な A式箱 / RSC箱モデルを作成し、フラップの開閉表示を行うためのアドイン集です。
 
+
 ---
 ## Screenshots
 
@@ -23,6 +24,11 @@ Select a target `RSC_Box` from multiple boxes and open or close the upper flaps.
 
 
 ## Overview
+
+RSC stands for Regular Slotted Container, a common corrugated cardboard box style.
+
+RSC は Regular Slotted Container の略で、一般的な段ボールA式箱に相当する形式です。
+
 
 This repository contains small Fusion 360 Python add-ins created for practical packaging design work.
 
