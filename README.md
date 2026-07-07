@@ -5,6 +5,11 @@ Fusion 360 add-ins for creating and opening/closing simple RSC style cardboard b
 Fusion 360 用の、簡易的な A式箱 / RSC箱モデルを作成し、フラップの開閉表示を行うためのアドイン集です。
 
 ---
+## Screenshots
+    ### RSCBoxCreator
+    ![RSCBoxCreator command](docs/screenshots/rsc-box-creator-command.png)
+    ### RSCBoxMotion
+    ![RSCBoxMotion open state](docs/screenshots/rsc-box-open.png)
 
 ## Overview
 
